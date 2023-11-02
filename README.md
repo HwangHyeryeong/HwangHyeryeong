@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **HwangHyeryeong/HwangHyeryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6E70AE&height=300&section=header&text=Hello%20I'm%20HwangHyeryeong&fontSize=40&textColor=92989C)
-
-### :hammer: Skill
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E70AE&height=300&section=header&text=Hello%20I'm%20HwangHyeryeong&fontSize=40&textColor=92989C" alt="Header">
+</div>
+
+<div align="center">
+  <h3>👋 Hi there</h3>
+  
+</div>
+
+<div align="center">
+  <h3>:hammer: Skill</h3>
   <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
@@ -47,9 +54,9 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-### :muscle: Problem Solving
 <div align="center">
-    <a href="https://solved.ac/hrh4225">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hrh4225" alt="Solved.ac프로필">
-    </a>
+  <h3>:muscle: Problem Solving</h3>
+  <a href="https://solved.ac/hrh4225">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hrh4225" alt="Solved.ac프로필">
+  </a>
 </div>
