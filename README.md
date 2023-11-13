@@ -54,6 +54,13 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<h3 align="center">📊 My GitHub Stats 📊 </h3>
+<p align="center">
+<a href="https://github.com/HwangHyeryeong/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HwangHyeryeong&show_icons=true&theme=default_repocard&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HwangHyeryeong&layout=compact&langs_count=8&theme=default_repocard"/>
+</a>
+  
 <div align="center">
   <h3>:muscle: Problem Solving</h3>
   <a href="https://solved.ac/hrh4225">
