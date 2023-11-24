@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E70AE&height=300&section=header&text=Hello%20I'm%20HwangHyeryeong&fontSize=40&textColor=92989C" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=Hello%20I'm%20HwangHyeryeong&fontSize=40&fontColor=363636" alt="Header">
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<h3 align="center">📊 My GitHub Stats 📊 </h3>
+<h3 align="center">📊 My GitHub Stats </h3>
 <p align="center">
 <a href="https://github.com/HwangHyeryeong/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HwangHyeryeong&show_icons=true&theme=default_repocard&include_all_commits=true&count_private=true"/> 
@@ -67,3 +67,5 @@ Here are some ideas to get you started:
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hrh4225" alt="Solved.ac프로필">
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=200&section=footer&fontSize=90" alt="Footer Image">
